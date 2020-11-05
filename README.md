@@ -1,6 +1,6 @@
-                    My Recipes
+                    __My Recipes__
 
-                  CHOCOLATE CAKE 
+                  _CHOCOLATE CAKE_ 
 
 INGREDIENTS
 
@@ -18,7 +18,7 @@ INGREDIENTS
 
 DIRECTIONS
 
-Step 1
+_Step 1_
 
     Preheat oven to 350 degrees F (175 degrees C). Grease and flour two nine inch round pans.
 
