@@ -2,9 +2,9 @@
 
                   CHOCOLATE CAKE
 
-~~~diff
+```diff
 
-+ INGREDIENTS
+-INGREDIENTS
 
 1. 2 cups white sugar,
 2. 1-3/4 cups and 2 tablespoons all-purpose flour,
@@ -18,17 +18,17 @@
 10. 2-1/4 teaspoons vanilla extract,
 11. 1 cup and 1 tablespoon boiling water.
 
-__DIRECTIONS__
++DIRECTIONS
 
-__Step 1__
+@@Step 1@@
 
     Preheat oven to 350 degrees F (175 degrees C). Grease and flour two nine inch round pans.
 
-__Step 2__
+@@Step 2@@
 
     In a large bowl, stir together the sugar, flour, cocoa, baking powder, baking soda and salt. Add the eggs, milk, oil and vanilla, mix for 2 minutes on medium speed of mixer. Stir in the boiling water last. Batter will be thin. Pour evenly into the prepared pans.
 
-__Step 3__
+@@Step 3@@
 
     Bake 30 to 35 minutes in the preheated oven, until the cake tests done with a toothpick. Cool in the pans for 10 minutes, then remove to a wire rack to cool completely.
     
