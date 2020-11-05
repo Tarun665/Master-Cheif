@@ -10,7 +10,7 @@ INGREDIENTS
 4. 1-1/2 teaspoons baking powder,
 5. 1-3/4 teaspoons baking soda,
 6. 1 teaspoon salt,
-7. 2-1/4 eggs,
+7. 2-1/4 eggs,as
 8. 1 cup and 1 tablespoon milk,
 9. 1/2 cup and 2 teaspoons vegetable oil,
 10. 2-1/4 teaspoons vanilla extract,
