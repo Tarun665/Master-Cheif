@@ -2,7 +2,7 @@
 
                   CHOCOLATE CAKE
 
-__INGREDIENTS__
++ INGREDIENTS
 
 1. 2 cups white sugar,
 2. 1-3/4 cups and 2 tablespoons all-purpose flour,
