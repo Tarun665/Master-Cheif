@@ -2,7 +2,7 @@
 
                   CHOCOLATE CAKE
 
-INGREDIENTS
+__INGREDIENTS__
 
 1. 2 cups white sugar,
 2. 1-3/4 cups and 2 tablespoons all-purpose flour,
@@ -16,7 +16,7 @@ INGREDIENTS
 10. 2-1/4 teaspoons vanilla extract,
 11. 1 cup and 1 tablespoon boiling water.
 
-DIRECTIONS
+__DIRECTIONS__
 
 __Step 1__
 
